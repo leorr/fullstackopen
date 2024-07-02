@@ -1,4 +1,4 @@
-
+```mermaid
 sequenceDiagram
     participant browser
     participant server
@@ -12,4 +12,4 @@ sequenceDiagram
     Note right of browser: add a new note to the list
     Note right of browser: rerender the list
     Note right of browser: sends the note to the server
-
+```
